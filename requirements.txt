@@ -9,6 +9,6 @@ apscheduler>=3.10
 httpx>=0.25
 python-engineio>=4.8
 python-socketio>=5.10
-gevent>=23.9
+gevent>=26.9.0
 gevent-websocket>=0.10
 python-dotenv>=1.0
