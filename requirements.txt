@@ -1,6 +1,6 @@
 flask>=3.0
 flask-socketio>=5.3
-playwright>=1.40
+playwright>=1.64.1
 pydantic>=2.5
 reportlab>=4.0
 requests>=2.31
